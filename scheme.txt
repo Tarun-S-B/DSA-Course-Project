@@ -1,0 +1,2 @@
+Student_scholarship 100000 3 The scholarship to de awarded (Preference to application order)
+Aged_scholarship 5000 6 The money given to individual above age of 80 (Preference to the Oldest)
